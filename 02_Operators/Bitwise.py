@@ -1,0 +1,14 @@
+a=9
+b=6
+c=a&b
+print(c)
+d=a|b
+print(d)
+e=~a
+print(e)
+f=a^b
+print(f)
+h=b<<a
+print(h)
+g=b>>a
+print(g)
