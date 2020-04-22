@@ -229,7 +229,8 @@
 
 
 10. **Additions**
-    - [Iterator]
+    	- [Iterator]
 	- [Generators]
 	- [Command line Arguments]
 	- [Closure]
+	- [ListIterator]
