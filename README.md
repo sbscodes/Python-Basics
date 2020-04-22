@@ -44,7 +44,7 @@
 3. **Data Types**
   
   - **[Numbers]**
-		-(including booleans)
+		- (including booleans)
 		- int
 		- float
 		- complex
@@ -113,36 +113,36 @@
 		- index()
 	
 - **[Sets]**
-		- add
-		- clear
-		- copy
-		- difference
-		- difference_update
-		- discard
-		- intersection
-		- intersection_update
-		- isdisjoint
-		- issubset
-		- issuperset
-		- pop
-		- remove
-		- symmetric_difference
-		- symmetric_difference_update
-		- union
-		- update
+		- add()
+		- clear()
+		- copy()
+		- difference()
+		- difference_update()
+		- discard()
+		- intersection()
+		- intersection_update()
+		- isdisjoint()
+		- issubset()
+		- issuperset()
+		- pop()
+		- remove()
+		- symmetric_difference()
+		- symmetric_difference_update()
+		- union()
+		- update()
 	
 - **[Dictionaries]**
-		- clear
-		- copy
-		- fromkeys
-		- get
-		- items
-		- keys
-		- pop
-		- popitem
-		- setdefault
-		- update
-		- values
+		- clear()
+		- copy()
+		- fromkeys()
+		- get()
+		- items()
+		- keys()
+		- pop()
+		- popitem()
+		- setdefault()
+		- update()
+		- values()
 - **[Type Casting]**
 	- [* _int_ to Others*]
 	- [* _float_ to Others*]
